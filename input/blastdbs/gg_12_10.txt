@@ -1,0 +1,72 @@
+
+
+Building a new DB, current time: 05/09/2022 16:15:39
+New DB name:   /home/busbyp/Desktop/blocker_gen/input/blastdbs/gg_12_10
+New DB title:  gg_12_10
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+BLAST options error: File ../input/sequences/current_Bacteria_unaligned.fa does not exist
+
+
+Building a new DB, current time: 05/09/2022 16:17:20
+New DB name:   /home/busbyp/Desktop/blocker_gen/input/blastdbs/gg_12_10
+New DB title:  gg_12_10
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+BLAST options error: File ../input/sequences/{db}.f*.gz does not exist
+
+
+Building a new DB, current time: 05/09/2022 16:17:48
+New DB name:   /home/busbyp/Desktop/blocker_gen/input/blastdbs/gg_12_10
+New DB title:  gg_12_10
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+BLAST options error: File ../input/sequences/{db}.f*.gz does not exist
+
+
+Building a new DB, current time: 05/09/2022 16:18:14
+New DB name:   /home/busbyp/Desktop/blocker_gen/input/blastdbs/gg_12_10
+New DB title:  gg_12_10
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+BLAST options error: File ../input/sequences/{db}.fasta.gz does not exist
+
+
+Building a new DB, current time: 05/09/2022 16:19:06
+New DB name:   /home/busbyp/Desktop/blocker_gen/input/blastdbs/gg_12_10
+New DB title:  gg_12_10
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+BLAST options error: File ../input/sequences/{db}.fasta.gz does not exist
+
+
+Building a new DB, current time: 05/09/2022 16:21:30
+New DB name:   /home/busbyp/Desktop/blocker_gen/input/blastdbs/gg_12_10
+New DB title:  gg_12_10
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+BLAST options error: File ../input/sequences/{db}.fasta.gz does not exist
+
+
+Building a new DB, current time: 05/09/2022 16:27:19
+New DB name:   /home/busbyp/Desktop/blocker_gen/input/blastdbs/gg_12_10
+New DB title:  gg_12_10
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+BLAST options error: /home/busbyp/Desktop/blocker_gen/input/sequences/gg_12_10.fasta.gz does not match input format type, default input type is FASTA
+
+
+Building a new DB, current time: 05/09/2022 16:27:55
+New DB name:   /home/busbyp/Desktop/blocker_gen/input/blastdbs/gg_12_10
+New DB title:  gg_12_10
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1075170 sequences in 17.8352 seconds.
