@@ -3,7 +3,7 @@
 """
 Created on Thu May  5 15:31:23 2022
 
-@author: getz
+@author: getzm
 """
 
 import os
